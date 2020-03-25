@@ -1,2 +1,3 @@
 Program: tabix
-Komenda: tabix CPCT02220079.annotated.processed.vcf.gz 12:112204691-11247789 > Results_Zad3.vcf
+Komendy: tabix -p vcf CPCT02220079.annotated.processed.vcf.gz 
+         tabix CPCT02220079.annotated.processed.vcf.gz 12:112204691-11247789 > Results_Zad3.vcf
