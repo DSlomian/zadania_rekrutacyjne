@@ -1,2 +1,0 @@
-Za pomocą komendy: awk -F '\t' '{if($0 ~ /\#/) print; else if($7 == "PASS") print}' CPCT02220079.annotated.processed.vcf > only_pass.vcf
-wyodrębniłem warianty dla których pole filter=PASS. Nad dalszą, częścią zamierzam jeszcze popracować
