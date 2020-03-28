@@ -1,2 +1,0 @@
-Wyodrębniłem rekordy z delecją i insercja przy użyciu programu bedops2.4 do dwóch nowych plików .vcf
-Następnie wczytałem dane do pakietu R i jestem w trakcie prac nad zrobieniem hisotogramów długości inserci i delecji dla każdego z chromosomów.
